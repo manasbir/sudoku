@@ -1,3 +1,1 @@
 # sudoku
-# helpgit 
-ayo :( 
